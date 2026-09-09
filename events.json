@@ -1,39 +1,6 @@
 [
   {
-    "title": "YE Magic Garden",
-    "host": "YE Munich",
-    "brand": "ye",
-    "venue": "Gutshof Pürkelgut",
-    "city": "Regensburg",
-    "region": "Bayern",
-    "vibe": "Open Air",
-    "day": "Sa",
-    "dateNum": "05",
-    "month": "Sep",
-    "time": "ab 14:00",
-    "price": "Regular Phase",
-    "age": "18+",
-    "note": "Magic Garden Open Air auf dem Gutshof – Early Bird ist vorbei, Regular Phase läuft.",
-    "ticketURL": "https://ye-munich.com/05-09-ye-open-air-at-gutshof-puerkelgut-regensburg-2/"
-  },
-  {
-    "title": "YE Munich Summer Closing",
-    "host": "YE Munich",
-    "brand": "ye",
-    "venue": "Feringasee",
-    "city": "München",
-    "region": "Bayern",
-    "vibe": "Open Air",
-    "day": "Sa",
-    "dateNum": "05",
-    "month": "Sep",
-    "time": "ab 14:00",
-    "price": "Early Bird läuft",
-    "age": "18+",
-    "note": "Das Münchner Summer Closing am Feringasee – Early Bird Tickets sind noch zu haben.",
-    "ticketURL": "https://ye-munich.com/05-09-ye-munich-summer-closing-at-feringasee/"
-  },
-  {
+    "date": "2026-09-11",
     "title": "After Five",
     "host": "Soul.",
     "brand": "soul",
@@ -41,9 +8,6 @@
     "city": "Wien",
     "region": "Österreich",
     "vibe": "Afterwork",
-    "day": "Fr",
-    "dateNum": "11",
-    "month": "Sep",
     "time": "ab 17:00",
     "price": "Registrierung",
     "age": "18+",
@@ -51,6 +15,7 @@
     "ticketURL": "https://www.soul-dayparty.at/events/after-five-volksgarten-pavillon"
   },
   {
+    "date": "2026-09-12",
     "title": "YE goes Tegernsee",
     "host": "YE Munich",
     "brand": "ye",
@@ -58,9 +23,6 @@
     "city": "Tegernsee",
     "region": "Bayern",
     "vibe": "Open Air",
-    "day": "Sa",
-    "dateNum": "12",
-    "month": "Sep",
     "time": "ab 15:00",
     "price": "Regular Phase",
     "age": "18+",
@@ -68,6 +30,7 @@
     "ticketURL": "https://ye-munich.com/12-09-ye-goes-tegernsee-summer-closing/"
   },
   {
+    "date": "2026-09-25",
     "title": "Tutto Passa – Special Edition",
     "host": "Tutto Passa",
     "brand": "tuttopassa",
@@ -75,16 +38,14 @@
     "city": "Kressbronn",
     "region": "Bodensee",
     "vibe": "Dayparty",
-    "day": "Fr",
-    "dateNum": "25",
-    "month": "Sep",
     "time": "17:30 – 22:30",
     "price": "Tickets verfügbar",
     "age": "21+",
-    "note": "Ihr bisher größtes Event, direkt am Wasser. ONFAYA, Floyd Lavine, Finnisher. Final Announcement am 15.09. Limitierte Kapazität.",
+    "note": "Ihr bisher größtes Event, direkt am Wasser. ONFAYA, Floyd Lavine, Finnisher. Limitierte Kapazität.",
     "ticketURL": "https://www.tuttopassamusic.com/event-details/tutto-passa-at-lake-constance-special-edition"
   },
   {
+    "date": "2026-10-17",
     "title": "YE goes Krems",
     "host": "YE Munich",
     "brand": "ye",
@@ -92,13 +53,24 @@
     "city": "Krems",
     "region": "Österreich",
     "vibe": "Open Air",
-    "day": "Sa",
-    "dateNum": "17",
-    "month": "Okt",
     "time": "ab 15:00",
     "price": "Phase 1 läuft",
     "age": "18+",
     "note": "YE zieht an die Donau – Phase-1-Tickets sind live.",
     "ticketURL": "https://ye-munich.com/17-10-ye-goes-krems-an-der-donau/"
+  },
+  {
+    "title": "YE Winteropening",
+    "host": "YE Munich",
+    "brand": "ye",
+    "venue": "Königsleiten, Zillertal",
+    "city": "Österreich",
+    "region": "Alpen",
+    "vibe": "Après",
+    "time": "3 Tage",
+    "price": "Termin folgt",
+    "age": "18+",
+    "note": "Drei Tage House zwischen 1.600 und 2.300 Metern, zehn Locations, über 30 Artists. Die Ausgabe 26 ist noch nicht angekündigt.",
+    "terminSteht": false
   }
 ]
